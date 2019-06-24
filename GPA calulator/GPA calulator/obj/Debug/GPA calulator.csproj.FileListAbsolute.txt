@@ -1,0 +1,9 @@
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\bin\Debug\GPA calulator.exe.config
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\bin\Debug\GPA calulator.exe
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\bin\Debug\GPA calulator.pdb
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA_calulator.Form1.resources
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA_calulator.Properties.Resources.resources
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA calulator.csproj.GenerateResource.Cache
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA calulator.exe
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA calulator.pdb
+E:\University\5th_semester\Visual Basic\Visual Basic lab\GPA calulator\GPA calulator\obj\Debug\GPA calulator.csprojResolveAssemblyReference.cache
